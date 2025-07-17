@@ -1,6 +1,3 @@
-Here's a professional and engaging **README description** for your GitHub repository, tailored to your Summer 2025 Final Project on AI Job Market Analysis:
-
----
 
 # 🤖 AI Job Market Analysis – Final Project (Summer 2025)
 
