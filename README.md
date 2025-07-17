@@ -73,6 +73,6 @@ streamlit run ai_jobs_dashboard_ultimate.py
 ## 👨‍💻 Author
 
 **Pratik Rughe**
-Final Year Student, Comparative Cultural Studies
+Data Visualisation
 Summer 2025 Final Project
 
